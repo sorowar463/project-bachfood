@@ -1,0 +1,11 @@
+h1{
+    color: darkgreen;
+    background-color: cyan;
+    width: fit-content;
+    height: fit-content;
+    border: 7px solid black;
+    border-radius: 20px;
+    margin: auto;
+    padding: 5px;
+
+}
